@@ -134,4 +134,58 @@ body {
     height: 45px;
     width: 170px;
     box-shadow: 2px 2px 2px 2px #777777;
+    margin-bottom: 10px;
+}
+.knop3 {
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #35B1A4;
+    width: 100px;
+    height: 30px;
+}
+
+li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.Voornaam {
+    margin: 10px;
+    width: 565px;
+}
+.E-mail {
+    margin: 10px;
+    width: 565px;
+}
+.Familienaam {
+    margin: 10px;
+    width: 565px;
+}
+.GSM {
+    margin: 10px;
+    width: 565px;
+}
+.Straat {
+    margin: 10px;
+    width: 438px;
+}
+.Nr {
+    margin: 10px;
+    width: 97px;
+}
+.Postcode {
+    margin: 10px;
+    width: 265px;
+}
+.Gemeente {
+    margin: 10px;
+    width: 265px;
+}
+.groep {
+    margin: 10px;
+    width: 991px;
+}
+.Aantal {
+    margin: 10px;
+    width: 130px;
 }
