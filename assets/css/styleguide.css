@@ -189,3 +189,26 @@ li {
     margin: 10px;
     width: 130px;
 }
+
+.Zoeken {
+    width: 293px;
+    height: 34;
+}
+
+.Logo {
+    width: 300px;
+    height: 300px;
+}
+.Algemeen{
+    border-bottom: solid 1px #000000;
+    width: 170px;
+}
+.Privacy {
+    border-bottom: solid 1px #000000;
+    width: 50px;
+}
+
+.Legaal {
+    border-bottom: solid 1px #000000;
+    width: 130px;
+}
